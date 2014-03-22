@@ -39,6 +39,7 @@ INSTALLED_APPS = (
 
     'bootstrap_toolkit',
 
+    'concurrenflict',
     'myapp',
 )
 

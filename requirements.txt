@@ -1,2 +1,4 @@
 Django==1.6.2
 django-bootstrap-toolkit==2.15.0
+#django-concurrenflict
+simplejson
